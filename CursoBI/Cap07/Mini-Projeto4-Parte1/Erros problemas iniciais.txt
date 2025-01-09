@@ -1,0 +1,19 @@
+Erros / Problemas nos Gráficos
+
+Total de Entregas no Prazo por Canal de Entrega
+- Uso de parâmetro errado para o eixo Y, onde foi usado Contagem de status entrega
+
+Percentual de Entregas por Equipe
+- Creio que tenha muitas categorias para colocar em um gráfico de pizza, tornando ineligível algumas categorias
+
+Total de Entregas por Mês
+- Não é possível identificar nada com esse gráfico, trocar o tipo
+
+Total de Entregas de Produtos dos Top 5 Vendedores
+- Estão todos, não so top 5
+
+Total de Entregas com Atraso por Cidade
+- Não da pra ver nada, além de estar mostrando entregas antecipadas e no prazo também
+
+Percentual de Entregas por Status de Entrega
+- Não está mostrando o percentual, trocar para pizza
